@@ -8,3 +8,6 @@ dpkg -i /tmp/fd.deb
 
 curl -Lo /tmp/rg.deb https://github.com/BurntSushi/ripgrep/releases/download/0.10.0/ripgrep_0.10.0_amd64.deb
 dpkg -i /tmp/rg.deb
+
+curl -Lo /tmp/bat.deb https://github.com/sharkdp/bat/releases/download/v0.10.0/bat_0.10.0_i386.deb
+dpkg -i /tmp/bat.deb
