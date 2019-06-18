@@ -1,0 +1,50 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+
+brew "fish"
+brew "bat"
+brew "exa"
+brew "fd"
+brew "fzf"
+brew "node"
+brew "ripgrep"
+brew "wget"
+brew "autojump"
+
+cask "alfred"
+cask "fish"
+cask "font-input"
+cask "google-chrome"
+cask "iina"
+cask "intel-power-gadget"
+cask "iterm2"
+cask "spectacle"
+cask "spotify"
+cask "sublime-text"
+cask "google-backup-and-sync"
+
+mas "Microsoft Remote Desktop", id: 1295203466
+
+# brew "python@2"
+
+# cask "dialpad"
+
+# cask "jetbrains-toolbox"
+# cask "tower2"
+# cask "kaleidoscope"
+# cask "setapp"
+# cask "slack"
+
+# cask "google-cloud-sdk"
+
+# mas "Quiver", id: 866773894
+# mas "Airmail 3", id: 918858936
+# mas "Fantastical 2", id: 975937182
+
+# brew "mysql-connector-c"
+# brew "mysql@5.7"
+# cask "java8"
+# cask "fork"
